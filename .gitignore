@@ -3,3 +3,5 @@
 *.bootinfo_guids
 *.compileinfo
 *.precompilecache
+*.~u
+*.installation-config
